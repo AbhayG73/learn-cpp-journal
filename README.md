@@ -1,6 +1,6 @@
 ## Learn C++: A Deep Dive Beyond the Classroom
 
-I'm currently studying Computer Science at the University of Michigan, and while C++ is part of the curriculum, I’m committed to building a deeper, more hands-on understanding of the language beyond what’s taught in class.
+I'm currently studying Computer Science at the University of Michigan, hoping to achieve C++ mastery beyond what’s taught in class.
 
 This repository documents my personal journey through [LearnCpp.com](https://www.learncpp.com), where I dedicate at least 30 minutes each day to learning and practicing modern C++. Each chapter is paired with self-built mini projects or code samples that apply the concepts in a practical way.
 
